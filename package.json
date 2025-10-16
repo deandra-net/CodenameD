@@ -1,0 +1,24 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Deandra Arta",
+  "main": "main.js",
+  "scripts": {
+    "optimize-images": "node optimize-images.js",
+    "dev": "python -m http.server 8000"
+  },
+  "devDependencies": {
+    "imagemin": "^9.0.1",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-jpegtran": "^8.0.0",
+    "imagemin-pngquant": "^10.0.0",
+    "imagemin-webp": "^8.0.0"
+  },
+  "keywords": [
+    "portfolio",
+    "web-development",
+    "cyber-security"
+  ],
+  "author": "Deandra Arta",
+  "license": "MIT"
+}
