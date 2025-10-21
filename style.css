@@ -120,7 +120,7 @@ h2 {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  object-fit: none;
+  object-fit: contain;
   border: 3px solid transparent;
   box-shadow: 0 0 10px #66ccff, 0 0 20px #66ccff;
   animation: glow 3s infinite alternate;
@@ -869,4 +869,5 @@ h2 {
     filter: blur(0);
     transform: translateY(0);
 }
+
 
