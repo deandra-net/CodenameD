@@ -117,8 +117,8 @@ h2 {
 }
 
 .hero-image {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: contain;
   border: 3px solid transparent;
@@ -869,5 +869,6 @@ h2 {
     filter: blur(0);
     transform: translateY(0);
 }
+
 
 
