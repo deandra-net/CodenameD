@@ -62,9 +62,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     var options = {
         strings: [
-            'a cyber security enthusiast.',
+            'a DevOps Engineer.',
             'a content creator.',
-
             'a Computer Science Student.',
         ],
         typeSpeed: 50,  // Kecepatan mengetik (ms)
